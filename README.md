@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I’m Mrudul Mamtani
 
-<!--
-**mrudulmamtani/mrudulmamtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist** | Machine Learning • AI Agents • LLMOps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+i like to code sometimes.
+
+---
+
+### 🚀 Favorite Project
+- **[vroom vroom](https://github.com/mrudulmamtani/vroom-vroom)**
+
+---
+
+### 🌐 Connect with Me
+- [LinkedIn: mrudulmamtani](https://www.linkedin.com/in/mrudulmamtani)
+
+---
+
+### 🤓 Fun Fact
+> Did you know you grow your teeth before bones?
+
+---
+
+![Machine Learning](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-00C7B7?style=for-the-badge)
+![LLMOps](https://img.shields.io/badge/LLMOps-673AB7?style=for-the-badge)
